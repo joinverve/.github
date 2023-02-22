@@ -1,4 +1,4 @@
-<img width="100%" src="https://user-images.githubusercontent.com/1077188/220707628-194ff97b-7114-4950-ad2d-5466f948ba01.png" alt="Verve" />
+<img width="80%" src="https://user-images.githubusercontent.com/1077188/220707628-194ff97b-7114-4950-ad2d-5466f948ba01.png" alt="Verve" />
 
 # Build high-performing teams, anywhere 🌍 
 
